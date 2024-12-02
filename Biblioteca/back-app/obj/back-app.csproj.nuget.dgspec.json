@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Documents\\Faculdade\\Aula - C#\\A2Parte2\\A2Parte2\\Biblioteca\\back-app\\back-app.csproj": {}
+    "C:\\Users\\Logcomex\\Documents\\SUBINDO TRABALHO\\A2Parte2\\Biblioteca\\back-app\\back-app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Documents\\Faculdade\\Aula - C#\\A2Parte2\\A2Parte2\\Biblioteca\\back-app\\back-app.csproj": {
+    "C:\\Users\\Logcomex\\Documents\\SUBINDO TRABALHO\\A2Parte2\\Biblioteca\\back-app\\back-app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Faculdade\\Aula - C#\\A2Parte2\\A2Parte2\\Biblioteca\\back-app\\back-app.csproj",
+        "projectUniqueName": "C:\\Users\\Logcomex\\Documents\\SUBINDO TRABALHO\\A2Parte2\\Biblioteca\\back-app\\back-app.csproj",
         "projectName": "back-app",
-        "projectPath": "C:\\Users\\lucas\\Documents\\Faculdade\\Aula - C#\\A2Parte2\\A2Parte2\\Biblioteca\\back-app\\back-app.csproj",
-        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Documents\\Faculdade\\Aula - C#\\A2Parte2\\A2Parte2\\Biblioteca\\back-app\\obj\\",
+        "projectPath": "C:\\Users\\Logcomex\\Documents\\SUBINDO TRABALHO\\A2Parte2\\Biblioteca\\back-app\\back-app.csproj",
+        "packagesPath": "C:\\Users\\Logcomex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Logcomex\\Documents\\SUBINDO TRABALHO\\A2Parte2\\Biblioteca\\back-app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Logcomex\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -42,6 +42,18 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -61,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

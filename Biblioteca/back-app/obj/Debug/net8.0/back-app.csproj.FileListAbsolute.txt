@@ -1,0 +1,7 @@
+C:\Users\Logcomex\Documents\SUBINDO TRABALHO\A2Parte2\Biblioteca\back-app\obj\Debug\net8.0\back-app.csproj.AssemblyReference.cache
+C:\Users\Logcomex\Documents\SUBINDO TRABALHO\A2Parte2\Biblioteca\back-app\obj\Debug\net8.0\back-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Logcomex\Documents\SUBINDO TRABALHO\A2Parte2\Biblioteca\back-app\obj\Debug\net8.0\back-app.AssemblyInfoInputs.cache
+C:\Users\Logcomex\Documents\SUBINDO TRABALHO\A2Parte2\Biblioteca\back-app\obj\Debug\net8.0\back-app.AssemblyInfo.cs
+C:\Users\Logcomex\Documents\SUBINDO TRABALHO\A2Parte2\Biblioteca\back-app\obj\Debug\net8.0\back-app.csproj.CoreCompileInputs.cache
+C:\Users\Logcomex\Documents\SUBINDO TRABALHO\A2Parte2\Biblioteca\back-app\obj\Debug\net8.0\back-app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Logcomex\Documents\SUBINDO TRABALHO\A2Parte2\Biblioteca\back-app\obj\Debug\net8.0\back-app.sourcelink.json
